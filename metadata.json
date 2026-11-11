@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Iuran Sampah Medina Residence Bantargedang",
+  "description": "Aplikasi pemantauan pembayaran iuran sampah dan kas paguyuban warga Medina Residence Bantargedang secara berkala, transparan, dan real-time dengan integrasi kode QRIS otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

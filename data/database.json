@@ -1,0 +1,3250 @@
+{
+  "config": {
+    "namaPerumahan": "Perumahan Medina Residence Bantargedang",
+    "lokasi": "Bantargedang, Kota Tasikmalaya",
+    "bendahara": "Bp Aziz Maryansyah",
+    "kontakBendahara": "0812-3456-7890",
+    "rekeningKas": "BCA 8105-0982-11 a.n. Aziz Maryansyah",
+    "qrisMerchant": "Kas Warga Medina Ban...",
+    "qrisNmid": "ID1026635824174",
+    "qrisCode": "A01",
+    "qrisImageUrl": "/assets/aistudio/WhatsApp_Image_2026-11-11_at_11.57.56_1f815094.jpeg",
+    "iuranPerBulan": 20000,
+    "periode": "Nov 2026 – Okt 2027",
+    "bulanList": [
+      "Nov 26",
+      "Des 26",
+      "Jan 27",
+      "Feb 27",
+      "Mar 27",
+      "Apr 27",
+      "Mei 27",
+      "Jun 27",
+      "Jul 27",
+      "Agu 27",
+      "Sep 27",
+      "Okt 27"
+    ],
+    "blokList": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "totalRumahPerBlok": 40
+  },
+  "payments": {
+    "A": {
+      "1": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "2": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "3": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "4": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "5": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "6": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "7": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "8": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "9": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "10": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "11": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "12": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "13": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "14": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "15": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "16": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "17": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "18": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "19": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "20": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "21": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "22": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "23": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "24": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "25": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "26": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "27": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "28": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "29": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "30": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "31": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "32": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "33": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "34": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "35": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "36": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "37": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "38": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "39": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "40": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "B": {
+      "1": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "2": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "3": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "4": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "5": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "6": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "7": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "8": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "9": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "10": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "11": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "12": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "13": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "14": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "15": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "16": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "17": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "18": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "19": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "20": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "21": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "22": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "23": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "24": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "25": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "26": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "27": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "28": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "29": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "30": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "31": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "32": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "33": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "34": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "35": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "36": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "37": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "38": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "39": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "40": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "C": {
+      "1": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "2": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "3": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "4": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "5": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "6": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "7": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "8": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "9": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "10": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "11": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "12": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "13": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "14": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "15": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "16": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "17": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "18": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "19": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "20": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "21": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "22": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "23": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "24": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "25": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "26": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "27": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "28": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "29": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "30": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "31": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "32": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "33": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "34": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "35": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "36": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "37": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "38": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "39": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "40": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "D": {
+      "1": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "2": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "3": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "4": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "5": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "6": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "7": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "8": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "9": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "10": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "11": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "12": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "13": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "14": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "15": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "16": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "17": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "18": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "19": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "20": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "21": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "22": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "23": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "24": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "25": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "26": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "27": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "28": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "29": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "30": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "31": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "32": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "33": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "34": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "35": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "36": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "37": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "38": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "39": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "40": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "occupants": {
+    "A1": {
+      "nama": "H. Sudirman",
+      "catatan": "Dekat Pos Satpam Utama",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 4
+    },
+    "A2": {
+      "nama": "Pak Hendra Kusuma",
+      "catatan": "Rumah Putih Abu",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 3
+    },
+    "A5": {
+      "nama": "Bu Hj. Rohanah",
+      "catatan": "",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 2
+    },
+    "A10": {
+      "nama": "Bp Aziz Maryansyah",
+      "catatan": "Bendahara Paguyuban",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 4
+    },
+    "B1": {
+      "nama": "Pak Bambang S.",
+      "catatan": "",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 3
+    },
+    "B12": {
+      "nama": "Pak RT Dedi Irawan",
+      "catatan": "Ketua Paguyuban RT 04",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 4
+    },
+    "C4": {
+      "nama": "Ibu Ratna Dewi",
+      "catatan": "",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 3
+    },
+    "C15": {
+      "nama": "Pak Gunawan",
+      "catatan": "",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 2
+    },
+    "D8": {
+      "nama": "Pak Mulyadi",
+      "catatan": "",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 4
+    },
+    "D20": {
+      "nama": "Keluarga Bp Rudi",
+      "catatan": "",
+      "statusHunian": "ditempati",
+      "anggotaKeluarga": 3
+    },
+    "A3": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A4": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A6": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A7": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A8": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A9": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A11": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A12": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A13": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A14": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A15": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A16": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A17": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A18": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A19": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A20": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A21": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A22": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A23": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A24": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A25": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A26": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A27": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A28": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A29": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A30": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A31": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A32": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A33": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A34": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A35": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A36": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A37": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A38": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A39": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "A40": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B2": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B3": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B4": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B5": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B6": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B7": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B8": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B9": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B10": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B11": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B13": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B14": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B15": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B16": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B17": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B18": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B19": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B20": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B21": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B22": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B23": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B24": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B25": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B26": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B27": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B28": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B29": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B30": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B31": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B32": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B33": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B34": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B35": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B36": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B37": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B38": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B39": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "B40": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C1": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C2": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C3": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C5": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C6": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C7": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C8": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C9": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C10": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C11": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C12": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C13": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C14": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C16": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C17": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C18": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C19": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C20": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C21": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C22": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C23": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C24": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C25": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C26": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C27": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C28": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C29": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C30": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C31": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C32": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C33": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C34": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C35": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C36": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C37": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C38": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C39": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "C40": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D1": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D2": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D3": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D4": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D5": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D6": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D7": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D9": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D10": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D11": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D12": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D13": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D14": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D15": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D16": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D17": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D18": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D19": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D21": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D22": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D23": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D24": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D25": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D26": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D27": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D28": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D29": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D30": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D31": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D32": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D33": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D34": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D35": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D36": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D37": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D38": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D39": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    },
+    "D40": {
+      "nama": "",
+      "catatan": "",
+      "statusHunian": "belum_ditempati",
+      "anggotaKeluarga": 0
+    }
+  },
+  "transactions": [],
+  "updatedAt": "2026-11-11T11:43:03.269Z"
+}
